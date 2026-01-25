@@ -100,10 +100,3 @@ This project enables the retail company to:
 SURYA PRAKASH P
 B.Tech – Artificial Intelligence & Data Science
 Aspiring Data Scientist | AI & Analytics Enthusiast
-
-* Make this **more recruiter-friendly**
-* Add **badges (Python | SQL | Power BI)**
-* Shorten it for **internship submissions**
-* Customize it for **LinkedIn or portfolio**
-
-Just tell me 🔥

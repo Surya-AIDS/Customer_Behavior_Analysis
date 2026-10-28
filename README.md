@@ -65,7 +65,10 @@ The analysis explores customer demographics, purchasing patterns, product catego
 * Customer demographics and behavior insights
 * Loyalty and repeat purchase analysis
 * Actionable KPIs for business stakeholders
-![Uploading Dashboard.png…]()
+
+
+![Uploading image.png…]()
+
 
 
 

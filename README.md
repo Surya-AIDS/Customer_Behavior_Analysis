@@ -66,8 +66,7 @@ The analysis explores customer demographics, purchasing patterns, product catego
 * Loyalty and repeat purchase analysis
 * Actionable KPIs for business stakeholders
 
-
-![Uploading image.png…]()
+<img width="952" height="460" alt="image" src="https://github.com/user-attachments/assets/de3d2020-9f96-461a-8206-cc0e1c12359f" />
 
 
 

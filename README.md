@@ -69,6 +69,9 @@ The analysis explores customer demographics, purchasing patterns, product catego
 
 
 
+
+
+
 ---
 
 ## 📈 Key Insights & Outcomes
